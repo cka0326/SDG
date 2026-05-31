@@ -1,0 +1,15 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+
+# Environment — never commit secrets
+backend/.env
+.env
+
+# Node
+frontend/node_modules/
+
+# Build output
+frontend/dist/
